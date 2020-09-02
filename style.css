@@ -73,3 +73,7 @@ body {
 .linkCard a:hover {
   padding: +10px;
 }
+
+.card-body p {
+  color: #ac01ef;
+}
